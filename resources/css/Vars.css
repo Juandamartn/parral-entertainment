@@ -1,0 +1,20 @@
+:root {
+    --font-family: 'Poppins', sans-serif;
+    --font-size: 1rem;
+    --font-weight: 300;
+    --line-height: 1.6rem;
+    
+    --dark-bg: #303A52;
+    --darker-bg: #1E2433;
+    --dark-container: #574B90;
+    --light-primary-txt: rgba(255, 255, 255, 0.87);
+    --light-secondary-txt: rgba(255, 255, 255, 0.6);
+    --light-disable-txt: rgba(255, 255, 255, 0.38);
+    --accent: #FC85AE;
+    --link: #9E579D;
+    --light-bg: #F2F2F2;
+    --light-container: #ffffff;
+    --dark-primary-txt: rgba(0, 0, 0, 0.87);
+    --dark-secondary-txt: rgba(0, 0, 0, 0.6);
+    --dark-disabled-txt: rgba(0, 0, 0, 0.38);
+}
